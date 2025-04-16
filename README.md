@@ -83,6 +83,11 @@ pnpm dev
 bun dev
 ```
 
+![Image of the project](./snap/snap-1.png)
+
+
+![Image of the project](./snap/snap-2.png)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
